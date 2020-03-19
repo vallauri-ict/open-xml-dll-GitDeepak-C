@@ -15,4 +15,5 @@ Quindi si ottimizzano molto i tempi e modifica di una serie di documenti.
 
 ## Team sviluppatori:
 > 4B Info - Vallauri Fossano Italy
-* Autore: Chopra Deepak
+
+Autore: Chopra Deepak
