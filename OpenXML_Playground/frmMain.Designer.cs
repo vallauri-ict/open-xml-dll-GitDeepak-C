@@ -28,27 +28,40 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.btnSimpleTest = new System.Windows.Forms.Button();
+            this.btnWord = new System.Windows.Forms.Button();
+            this.btnExcel = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
-            // btnSimpleTest
+            // btnWord
             // 
-            this.btnSimpleTest.Font = new System.Drawing.Font("MS Reference Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnSimpleTest.Location = new System.Drawing.Point(12, 12);
-            this.btnSimpleTest.Name = "btnSimpleTest";
-            this.btnSimpleTest.Size = new System.Drawing.Size(460, 47);
-            this.btnSimpleTest.TabIndex = 0;
-            this.btnSimpleTest.Text = "SIMPLE TEST";
-            this.btnSimpleTest.UseVisualStyleBackColor = true;
-            this.btnSimpleTest.Click += new System.EventHandler(this.btnSimpleWordText_Click);
+            this.btnWord.Font = new System.Drawing.Font("MS Reference Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnWord.Location = new System.Drawing.Point(12, 12);
+            this.btnWord.Name = "btnWord";
+            this.btnWord.Size = new System.Drawing.Size(368, 47);
+            this.btnWord.TabIndex = 0;
+            this.btnWord.Text = "Create Word Document";
+            this.btnWord.UseVisualStyleBackColor = true;
+            this.btnWord.Click += new System.EventHandler(this.btnWord_Click);
             // 
-            // Form1
+            // btnExcel
+            // 
+            this.btnExcel.Font = new System.Drawing.Font("MS Reference Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnExcel.Location = new System.Drawing.Point(12, 65);
+            this.btnExcel.Name = "btnExcel";
+            this.btnExcel.Size = new System.Drawing.Size(368, 47);
+            this.btnExcel.TabIndex = 1;
+            this.btnExcel.Text = "Create Excel Document";
+            this.btnExcel.UseVisualStyleBackColor = true;
+            this.btnExcel.Click += new System.EventHandler(this.btnExcel_Click);
+            // 
+            // frmMain
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(484, 361);
-            this.Controls.Add(this.btnSimpleTest);
-            this.Name = "Form1";
+            this.ClientSize = new System.Drawing.Size(393, 127);
+            this.Controls.Add(this.btnExcel);
+            this.Controls.Add(this.btnWord);
+            this.Name = "frmMain";
             this.Text = "OpenXML PlayGround";
             this.ResumeLayout(false);
 
@@ -56,7 +69,8 @@
 
         #endregion
 
-        private System.Windows.Forms.Button btnSimpleTest;
+        private System.Windows.Forms.Button btnWord;
+        private System.Windows.Forms.Button btnExcel;
     }
 }
 

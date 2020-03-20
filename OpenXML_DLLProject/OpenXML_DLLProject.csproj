@@ -54,8 +54,11 @@
     <Reference Include="WindowsBase" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="openXmlUtilities.cs" />
+    <Compile Include="openXmlUtilitiesExcel.cs" />
+    <Compile Include="openXmlUtilitiesWord.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TestModel.cs" />
+    <Compile Include="TestModelList.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
