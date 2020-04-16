@@ -1,0 +1,11 @@
+C:\Users\develop\Desktop\AccessDbPlaygroundSolution\AccessDbPlaygroundForm\bin\Debug\AccessDbPlaygroundForm.exe.config
+C:\Users\develop\Desktop\AccessDbPlaygroundSolution\AccessDbPlaygroundForm\bin\Debug\AccessDbPlaygroundForm.exe
+C:\Users\develop\Desktop\AccessDbPlaygroundSolution\AccessDbPlaygroundForm\bin\Debug\AccessDbPlaygroundForm.pdb
+C:\Users\develop\Desktop\AccessDbPlaygroundSolution\AccessDbPlaygroundForm\obj\Debug\AccessDbPlaygroundForm.csprojAssemblyReference.cache
+C:\Users\develop\Desktop\AccessDbPlaygroundSolution\AccessDbPlaygroundForm\obj\Debug\AccessDbPlaygroundForm.FormMain.resources
+C:\Users\develop\Desktop\AccessDbPlaygroundSolution\AccessDbPlaygroundForm\obj\Debug\AccessDbPlaygroundForm.Properties.Resources.resources
+C:\Users\develop\Desktop\AccessDbPlaygroundSolution\AccessDbPlaygroundForm\obj\Debug\AccessDbPlaygroundForm.csproj.GenerateResource.cache
+C:\Users\develop\Desktop\AccessDbPlaygroundSolution\AccessDbPlaygroundForm\obj\Debug\AccessDbPlaygroundForm.csproj.CoreCompileInputs.cache
+C:\Users\develop\Desktop\AccessDbPlaygroundSolution\AccessDbPlaygroundForm\obj\Debug\AccessDbPlaygroundForm.exe
+C:\Users\develop\Desktop\AccessDbPlaygroundSolution\AccessDbPlaygroundForm\obj\Debug\AccessDbPlaygroundForm.pdb
+C:\Users\develop\Desktop\AccessDbPlaygroundSolution\AccessDbPlaygroundForm\bin\Debug\TestStudenti.accdb
